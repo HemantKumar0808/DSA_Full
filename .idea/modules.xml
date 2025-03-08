@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayList and VectorList/ArrayList and VectorList.iml" filepath="$PROJECT_DIR$/ArrayList and VectorList/ArrayList and VectorList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DSA ALL.iml" filepath="$PROJECT_DIR$/DSA ALL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_Full.iml" filepath="$PROJECT_DIR$/DSA_Full.iml" />
       <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />

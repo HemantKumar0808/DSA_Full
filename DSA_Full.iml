@@ -8,11 +8,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Binary Search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LinkedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OOPs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Recursion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sorting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Function and Method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursion and Backtracking" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
