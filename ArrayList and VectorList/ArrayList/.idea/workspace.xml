@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66196f00-3bd9-44c2-8159-f3cec413cf9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/.idea/2D Arr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/BinaryttoDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/DiaTraSpecialMat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/DiagonalTraversing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/FindTheWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/Spir2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/SprialT2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/SumUpperLowerTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/Transversematrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/func3prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/.idea/2D Arr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/DiagonalTraversing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/FindTheWay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/Spir2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/SprialT2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/SumUpperLowerTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/Transversematrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/out/production/2D Arr/spirallyTransversingMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Array/spirallyTransversingMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Conditionals/Image20240911215726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Conditionals/Image20240911225654.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Conditionals/Screenshot 2024-09-11 200424.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Conditionals/Screenshot 2024-09-14 231958.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Conditionals/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Image_to_PDF_20240915_103509.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Intro to Variables &amp; Data Types; Taking Input/Screenshot 2024-09-10 150946.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Intro to Variables &amp; Data Types; Taking Input/Screenshot 2024-09-10 205440.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Intro to Variables &amp; Data Types; Taking Input/Screenshot 2024-09-10 221235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Intro to Variables &amp; Data Types; Taking Input/Screenshot 2024-09-10 223017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Intro to Variables &amp; Data Types; Taking Input/Screenshot 2024-09-10 223612.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Intro to Variables &amp; Data Types; Taking Input/Screenshot 2024-09-10 224646.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Intro to Variables &amp; Data Types; Taking Input/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Intro to Variables &amp; Data Types; Taking Input/firstSession.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Screenshot 2024-09-08 204355.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Screenshot 2024-09-08 211833.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/Screenshot 2024-09-08 221306.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../All DSA Notes/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/.idea/17.Sep - Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/All_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/ArrayOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/CalculateTheSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/FindMaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/FuncArrayMaxIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/Multidimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/Screenshot 2024-09-18 231507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/Screenshot 2024-09-28 222823.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/SubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/SumofArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/arrayProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/.idea/17.Sep - Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/All_Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/ArrayOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/CalculateTheSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/FindMaxMin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/FuncArrayMaxIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/MaximumSubArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/Multidimensional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/Screenshot 2024-09-18 231507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/Screenshot 2024-09-28 222823.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/SecondLargest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/SubArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/SumofArrayExceptSelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/arrayProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/building.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/reverseNoArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/out/production/17.Sep - Array/rotateNoArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/reverseNoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Array/rotateNoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList and VectorList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeChk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TripletSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/.idea/Binary Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/RotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/out/production/Binary Search/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/out/production/Binary Search/.idea/Binary Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/out/production/Binary Search/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/out/production/Binary Search/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/out/production/Binary Search/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Binary Search/out/production/Binary Search/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA ALL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/.idea/Funcstion Self.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/CalculatepNr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/CheckPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/Func1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/FuncOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/PrintNthPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/Scoping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/VarArg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/calculatenCr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/func2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/func4even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Function and Method/FunctionPracticeQues/shadowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hashing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hashing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hashing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hashing/HashMap/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hashing/Hashing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/.idea/New folder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/CreateLinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/CreateLinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/CreateLinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/LinkedList/DisplayLLRecursively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/LinkedList/LinkedListBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/LinkedList/SinglyLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinkedList/LinkedListOuestions/InsertionOfTwoLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/.idea/Loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/EvenNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/checkPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/numberrotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/.idea/Loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/EvenNo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/checkPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/num.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/numberrotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/pelidromeChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/out/production/Loop/reverseDigitNo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/pelidromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loop/reverseDigitNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Screenshot 2024-09-12 200945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Screenshot 2024-09-12 222128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/Screenshot 2024-09-12 223415.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Loops/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/13.Sep - Nested Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/Nested Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/.idea/NestedLoopsQues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/ArmStrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/DiamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/InvertedTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/PyrimidPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/SquarePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/TrianglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/.idea/NestedLoopsQues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/ArmStrong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/DiamondPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/InvertedTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/PyrimidPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/SquarePattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/TrianglePattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/out/production/NestedLoopsQues/solidRectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/NestedLoopsQues/solidRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/.idea/NestedLoopsQues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/ArmStrong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/DiamondPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/InvertedTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/PyrimidPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/SquarePattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/TrianglePattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/out/production/NestedLoopsQues/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/out/production/NestedLoopsQues/.idea/NestedLoopsQues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/out/production/NestedLoopsQues/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/out/production/NestedLoopsQues/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Nested Loops/out/production/13.Sep - Nested Loops/solidRectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/.idea/OOPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/StudentClass/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/StudentClass/UseStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/out/production/OOPs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/out/production/OOPs/.idea/OOPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/out/production/OOPs/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/out/production/OOPs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/out/production/OOPs/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/out/production/OOPs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/out/production/OOPs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/out/production/OOPs/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/out/production/OOPs/StudentClass/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOPs/out/production/OOPs/StudentClass/UseStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/.idea/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/AllMazeQues/AMazePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/AllMazeQues/CountMazePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/AllMazeQues/MazeProblem3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/AllMazeQues/RatInaDeadMaze2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/AllMazeQues/RatInaDeadMaze4D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/AllMazeQues/RatInaDeadMaze4DOptimised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/AllMazeQues/RatInaMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/EasyQuesInteger_Array/Count1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/EasyQuesInteger_Array/PrintArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/EasyQuesInteger_Array/RecursionInNO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/EasyQuesInteger_Array/RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/EasyQuesInteger_Array/RecursiveSumNno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/EasyQuesInteger_Array/ToH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/EasyQuesInteger_Array/TowerofHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/EasyQuesInteger_Array/WhatisRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/EasyQuesInteger_Array/multipleRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/EasyQuesInteger_Array/optimizedPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/RecursionOnString/PermutationPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/.idea/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/AllMazeQues/AMazePath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/AllMazeQues/CountMazePath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/AllMazeQues/MazeProblem3D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/AllMazeQues/RatInaDeadMaze2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/AllMazeQues/RatInaDeadMaze4D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/AllMazeQues/RatInaDeadMaze4DOptimised.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/AllMazeQues/RatInaMaze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/EasyQuesInteger_Array/Count1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/EasyQuesInteger_Array/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/EasyQuesInteger_Array/PrintArr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/EasyQuesInteger_Array/RecursionInNO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/EasyQuesInteger_Array/RecursiveFibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/EasyQuesInteger_Array/RecursiveSumNno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/EasyQuesInteger_Array/ToH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/EasyQuesInteger_Array/TowerofHanoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/EasyQuesInteger_Array/WhatisRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/EasyQuesInteger_Array/multiplerecursive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Recursion/out/production/Recursion/RecursionOnString/PermutationPrinting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/.idea/Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/Ssort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/out/production/Sorting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/out/production/Sorting/.idea/Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/out/production/Sorting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/out/production/Sorting/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/out/production/Sorting/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/out/production/Sorting/Insertion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sorting/out/production/Sorting/Ssort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/.idea/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/NGE_PGE_NSE_PSE/NGEMethod1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/NGE_PGE_NSE_PSE/NGEMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/out/production/Stack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/out/production/Stack/.idea/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/out/production/Stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/out/production/Stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stack/out/production/Stack/NGEMethod1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/.idea/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/CamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/InverseCAmelCAse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/Screenshot 2024-09-30 204659.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/.idea/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/InverseCAmelCAse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/Strings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/SubString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/out/production/Strings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/out/production/Strings/.idea/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/out/production/Strings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/out/production/Strings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/string2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/stringCompression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/30.Sep - String/toggleCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/.idea/Strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/InverseCAmelCAse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/Strings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/SubString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/string2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/stringCompression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/out/production/Strings/toggleCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/string2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/stringCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../String/toggleCase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HemantKumar0808"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HemantKumar0808/DSA_ALL.git",
+    "accountId": "5a0d91d3-b52a-43c8-85db-9e8f90685f61"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2u24lI8ZJJLkwg4BXKOv1Mr4sXt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66196f00-3bd9-44c2-8159-f3cec413cf9f" name="Changes" comment="" />
+      <created>1741433485565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741433485565</updated>
+    </task>
+    <servers />
+  </component>
+</project>

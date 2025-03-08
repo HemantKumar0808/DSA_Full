@@ -30,3 +30,7 @@ public class AMazePath {
         aMazePaths(n, m, "",1,1);
     }
 }
+
+
+
+//hello i am passionate for build my self..
