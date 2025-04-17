@@ -12,7 +12,7 @@ public class RatInaDeadMaze4DOptimised {
             return;
         }
 
-        if(maze[sr][sc]== -1){  // V Imp
+        if(maze[sr][sc] == -1){
             return;
         }
 
@@ -35,7 +35,7 @@ public class RatInaDeadMaze4DOptimised {
         //taking up option
         aMazePaths(sr-1, sc, er, ec, psf + "U", maze);
 
-        maze[sr][sc] = 1; // V Imp
+        maze[sr][sc] = 1; // V Imp Backtracking
     }
 
     public static void main(String[] args) throws Exception {
@@ -44,8 +44,8 @@ public class RatInaDeadMaze4DOptimised {
         int cols = 4;
 
         int[][] maze = {{1,0,1,1},
-                {1,1,1,1},
-                {1,1,0,1}};
+                        {1,1,1,1},
+                        {1,1,0,1}};
 //        boolean[][] isVisited = new boolean[rows][cols];
         aMazePaths(0,0,rows-1, cols-1, "", maze);
     }

@@ -2,103 +2,31 @@ package CreateLinkedList;
 
 // LinkedList.java
 public class LinkedList {
-    private Node head; // Reference to the first node
-    private Node tail; // Reference to the last node
-    int size = 0;
 
-    // Constructor to initialize an empty LinkedList
+    int size = 0;
+    private Node head; // reference to the first node
+    private Node tail; // reference to the last node
+
+
+    //  Constructor to initialize an empty LinkedList
     public LinkedList() {
         this.head = null;
         this.tail = null;
     }
-    // if we have only head and insert node end of the list
-    public void insertAtEndWithHead(Node head, int data){
-        Node newNode = new Node(data);
-        Node temp = head;
-        while(temp.next != null){
-            temp = temp.next;
-        }
-        temp.next = temp;
 
-    }
-
-    // Method to insert a node at the end of the list
+    //  Method to insert a node at the end of the list
     public void insertAtEnd(int data) {
         Node newNode = new Node(data);
-        // For an empty list
-        if (head == null) {
+
+        if (head == null) { //  if our list is empty then add first node
             head = newNode;
-            tail = newNode;
-        } else {
-            // For a non-empty list
+//            tail = newNode;
+        } else { // for non-empty list
             tail.next = newNode;
-            tail = newNode;
+//            tail = newNode;
         }
+        tail = newNode;
         size++;
-    }
-
-    // Method to insert a node at start of the list
-
-    public void insertAtStart(int data) {
-        Node newNode = new Node(data);
-        // For an Empty List
-        if(head == null){
-            head = newNode;
-            tail = newNode;
-        }else{
-            // For non-empty list
-            newNode.next = head;
-            head = newNode;
-        }
-        size++;
-    }
-
-    // Method to insert a node mid of list
-    public void insertAt(int idx, int data) {
-        Node newNode = new Node(data);
-        Node temp = head;
-
-        if(idx == size){ // if idx is last node of list
-            insertAtEnd(data);
-            return;
-        } else if (idx == 0) { // if idx is first node of list
-            insertAtStart(data);
-            return;
-        } else if (idx < 0 || idx >size) {
-            System.out.println("Wrong Index");
-        }
-
-        for(int i = 1; i <= idx-1; i++){
-            temp = temp.next;
-        }
-        newNode.next = temp.next;
-        temp.next = newNode;
-        size++;
-    }
-
-    // Delete Node
-    public void deleteAt(int idx){
-        Node temp = head;
-        for(int i = 0; i <= idx-1; i++){
-            temp = temp.next;
-        }
-        temp.next = temp.next.next;
-        tail = temp;
-        size--;
-    }
-
-    // Get node data at any index
-    public int getAt(int idx){
-        if (idx < 0 || idx >= size) {
-            System.out.println("out of index of list");
-            return -1;
-        }
-
-        Node temp = head;
-        for (int i = 1; i <=idx; i++) {
-            temp = temp.next;
-        }
-        return temp.data;
     }
 
     // Method to display the contents of the list
@@ -111,7 +39,108 @@ public class LinkedList {
         System.out.println();
     }
 
-    // Length of Linked List
+    // Method to display the contents of the list
+    public void displayReverse() {
+        displayReverseHelper(head);
+        System.out.println();
+    }
+
+    private void displayReverseHelper(Node head) {
+        if (head == null) return;
+        displayReverseHelper(head.next);
+        System.out.print(head.data + " ");
+    }
+
+
+    // Method to insert a node mid of list
+    public void insertAtStart(int data) {
+        Node newNode = new Node(data);
+        if (head == null) { // empty list
+//            head = newNode;
+//            tail = newNode;
+            head = tail = newNode;
+        } else { // non-empty list
+            newNode.next = head;
+            head = newNode;
+        }
+        size++;
+    }
+
+    // Method to insert a node mid of list
+    public void insertAt(int idx, int data) {
+        if (idx < 0 || idx > size) {
+            System.out.println("Invalid index");
+            return;
+        }
+
+        Node newNode = new Node(data);
+
+        if (idx == 0) {
+            insertAtStart(data);
+            return;
+        }
+
+        if (idx == size) {
+            insertAtEnd(data);
+            return;
+        }
+
+        Node temp = head;
+        for (int i = 0; i < idx - 1; i++) {
+            temp = temp.next;
+        }
+
+        newNode.next = temp.next;
+        temp.next = newNode;
+        size++;
+    }
+
+    // Get node data at any index
+    public int getAt(int idx) {
+        if (idx < 0 || idx >= size) {
+            System.out.println("out of index of list");
+            return -1;
+        }
+
+        Node temp = head;
+        for (int i = 0; i < idx; i++) {
+            temp = temp.next;
+        }
+        return temp.data;
+    }
+
+    // Delete Node
+    public void deleteAt(int idx) {
+        if (idx < 0 || idx >= size) {
+            System.out.println("Invalid index");
+            return;
+        }
+
+        // Deleting head node
+        if (idx == 0) {
+            head = head.next;
+            if (head == null) tail = null; // List empty ho gayi
+            size--;
+            return;
+        }
+
+        // Deleting from middle or end
+        Node temp = head;
+        for (int i = 0; i < idx - 1; i++) {
+            temp = temp.next;
+        }
+
+        temp.next = temp.next.next;
+
+        // If last node is deleted, update tail
+        if (temp.next == null) {
+            tail = temp;
+        }
+
+        size--;
+    }
+
+
 //    public int size(){
 //        Node temp = head;
 //        int count = 0;
@@ -121,4 +150,6 @@ public class LinkedList {
 //        }
 //        return count;
 //    }
+
+
 }

@@ -1,27 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b860dab-d037-4ffb-b1a2-53097b764fc4" name="Changes" comment="" />
+    <list default="true" id="1b860dab-d037-4ffb-b1a2-53097b764fc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArrayList and VectorList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList and VectorList/ArrayList/ArrayList2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreFixSuFixSum/PreSufSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreFixSuFixSum/PrefixSumNoReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreFixSuFixSum/RangePrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreFixSuFixSum/SubArraySumEqualsToK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreFixSuFixSum/TwoSubArrayWithEqualSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions/MostFreqWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Hashing/HashMap/Hashing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion and Backtracking/AllMazeQues/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion and Backtracking/.idea/Recursion and Backtracking.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/AllMazeQues/AMazePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion and Backtracking/AllMazeQues/AMazePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/AllMazeQues/RatInaDeadMaze2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion and Backtracking/AllMazeQues/RatInaDeadMaze2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/AllMazeQues/RatInaDeadMaze4DOptimised.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion and Backtracking/AllMazeQues/RatInaDeadMaze4DOptimised.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/AllMazeQues/RatInaMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion and Backtracking/AllMazeQues/RatInaMaze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/RecursionOnString/PermutationPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion and Backtracking/RecursionOnString/PermutationPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/AllMazeQues/AMazePath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/AllMazeQues/CountMazePath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/AllMazeQues/MazeProblem3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/AllMazeQues/RatInaDeadMaze2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/AllMazeQues/RatInaDeadMaze4D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/AllMazeQues/RatInaDeadMaze4DOptimised.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/AllMazeQues/RatInaMaze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/EasyQuesInteger_Array/Count1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/EasyQuesInteger_Array/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/EasyQuesInteger_Array/PrintArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/EasyQuesInteger_Array/RecursionInNO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/EasyQuesInteger_Array/RecursiveFibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/EasyQuesInteger_Array/RecursiveSumNno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/EasyQuesInteger_Array/ToH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/EasyQuesInteger_Array/TowerofHanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/EasyQuesInteger_Array/WhatisRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/EasyQuesInteger_Array/multiplerecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion and Backtracking/out/production/Recursion/RecursionOnString/PermutationPrinting.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HemantKumar0808&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HemantKumar0808/DSA-Full.git&quot;,
+    &quot;accountId&quot;: &quot;aa7c2637-9f8b-4442-b877-e275d8fdc23d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2u23qzKxWqCbd2NuppxM1bIGxVP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MostFreqWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrefixSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrefixSumNoReturn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RangePrefixSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubArraySumEqualsToK.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSubArrayWithEqualSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidAnagram.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="MostFreqWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMap.Questions.MostFreqWord" />
+      <module name="Hashing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashMap.Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MostFreqWord" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +123,66 @@
       <updated>1741433037694</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Questions/ValidAnagram.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

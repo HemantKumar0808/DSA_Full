@@ -9,7 +9,7 @@ public class RatInaMaze {
             return;
         }
 
-        if(isVisited[sr][sc]== true){  // V Imp
+        if(isVisited[sr][sc] == true){ // V IMP
             return;
         }
 
@@ -32,16 +32,13 @@ public class RatInaMaze {
         //taking up option
         aMazePaths(sr-1, sc, er, ec, psf + "U", isVisited );
 
-        isVisited[sr][sc] = false; // V Imp
+        isVisited[sr][sc] = false; // V IMP
+
     }
 
     public static void main(String[] args) throws Exception {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String[] inputLine;
-        inputLine = br.readLine().trim().split(" ");
-        int n = Integer.parseInt(inputLine[0]);
-        inputLine = br.readLine().trim().split(" ");
-        int m = Integer.parseInt(inputLine[0]);
+        int n = 3;
+        int m = 3;
         boolean[][] isVisited = new boolean[n][m];
         aMazePaths(0,0,n-1, m-1, "",isVisited);
     }
