@@ -17,11 +17,12 @@ public class KnightTour2 {
     public static void printKnightsTour(int[][] chess, int r, int c, int move)
     {
         // Write your code here
-        if(r < 0 || r >= chess.length || c < 0 || c >= chess.length || chess[r][c] > 0)
+        if(r < 0 || r >= chess.length || c < 0 || c >= chess.length)
         {
             // -ve base case
             return;
         }
+        if(chess[r][c] != 0) return;
 
         if(move == chess.length * chess.length)
         {
